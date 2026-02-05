@@ -1,4 +1,4 @@
-# Foundations of Cultural and Social Data Analysis
+# Principles and Practices of Cultural Data Analysis
 
 **Academic Year**: 2025-2026
 
